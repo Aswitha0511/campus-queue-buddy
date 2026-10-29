@@ -1,3 +1,11 @@
+
+## 🎥 Project Explanation Video
+
+Watch the complete project explanation, including the objectives, features, technologies used, code implementation, and working demonstration.
+
+[**Watch Campus Queue Buddy – Explanation Video**](https://drive.google.com/file/d/1rxSQEr_yb8GpbjVll8jPm6OzU6GukaBh/view?usp=drive_link)
+
+
 # Campus Queue Buddy
 
 A web-based campus queue management system designed to help students manage waiting time and make campus services more organized and convenient.
